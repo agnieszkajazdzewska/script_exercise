@@ -48,5 +48,6 @@ srun $HOME/green_gpu/green-mbpt-install/bin/mbpt.exe \
      --P_sp=true \
 
 echo "hello, world!"
+echo "I want a different line!!"
 
 date
