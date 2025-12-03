@@ -47,5 +47,6 @@ srun $HOME/green_gpu/green-mbpt-install/bin/mbpt.exe \
      --Sigma_sp=true \
      --P_sp=true \
 
+echo "hello, world!"
 
 date
